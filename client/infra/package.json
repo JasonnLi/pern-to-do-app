@@ -1,5 +1,5 @@
 {
-    "name": "infra",
+    "name": "pernTodoApp-client",
     "devDependencies": {
         "@types/node": "^10.0.0"
     },
