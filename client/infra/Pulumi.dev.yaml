@@ -1,0 +1,5 @@
+config:
+  aws:profile: pernToDoApp-pulumi-dev
+  aws:region: ap-southeast-2
+  pernToDoApp:webAddress: pernToDoApp-dev.net
+  infra:sql-admin-name: admin
