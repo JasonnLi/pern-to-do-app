@@ -8,8 +8,8 @@ services:
         restart: always
         environment:
             POSTGRES_DB: pern-test
-            POSTGRES_USER: admin
-            POSTGRES_PASSWORD: test
+            POSTGRES_USER: pernmaster
+            POSTGRES_PASSWORD: pernmaster
             PGDATA: /var/lib/postgresql/data
         ports:
             - "5432:5432"
